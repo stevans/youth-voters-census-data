@@ -1,4 +1,4 @@
-youth-population
+youth-voters-census-data
 ==============================
 
 Using census data to understand the youth population size and (potentially) voting habits.
