@@ -1,7 +1,7 @@
 youth-voters-census-data
 ==============================
 
-Using census data to understand the youth population size and (potentially) voting habits.
+Using census data to understand the youth population size and voting impact.
 
 Project Organization
 ------------
